@@ -1,0 +1,14 @@
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\bin\Release\TicTacToe.exe.config
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\bin\Release\TicTacToe.exe
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\bin\Release\TicTacToe.pdb
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\MainWindow.g.cs
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\App.g.cs
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\TicTacToe_MarkupCompile.cache
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\TicTacToe_MarkupCompile.lref
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\MainWindow.baml
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\TicTacToe.g.resources
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\TicTacToe.Properties.Resources.resources
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\TicTacToe.csproj.GenerateResource.Cache
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\TicTacToe.exe
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\TicTacToe.pdb
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\TicTacToe\obj\Release\TicTacToe.csprojResolveAssemblyReference.cache
